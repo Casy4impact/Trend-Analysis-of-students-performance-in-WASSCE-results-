@@ -16,6 +16,7 @@ Application Used: R programming language. At first, I tried using Tableau and Py
 I coded the WASSCE results: A1 = 75, B2 =70, B3 = 65, C4 = 60, D7 = 45, E8 = 40, and F9 = 39. 
 Gender: 1 represent male; 2 represent female.
 Libraries Used: ggplot2, readxl, trend, stats
+
 ## Observations:
 ## Public School Performance Trend
 ### Fig 1: Public School Performance Trend
