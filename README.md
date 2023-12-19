@@ -51,7 +51,7 @@ Both private and secondary schools in the study area need to study the template 
 I collected primary data from the selected schools to probe more and conduct diagnostic analytics on the possible reasons the students’ performance in WASSCE in Ajeromi LGA, Lagos State has been increasing at a very slow pace. 
 The quality of education in Ajeromi LGA, Lagos State need to be improved to increase students performance
 
-Note: If need more information on the analysis, discussions and recommendations, kindly reach out to me. 
+Note: If you need more information on the analysis, discussions and recommendations, kindly reach out to me. 
 
 
 
